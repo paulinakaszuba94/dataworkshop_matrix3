@@ -1,4 +1,4 @@
-# dataworkshop_matrix3
+# Project "Transformation" - "Matrix" PART. 3 by DataWorkshop.eu
 
 This is a third challenge repository - the last one. It's the next step to learn secrets of Machine Learnig.
 
