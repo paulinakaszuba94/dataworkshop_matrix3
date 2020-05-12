@@ -7,5 +7,5 @@ We have again only 5 days for transformation: from zero to specialist. Our goal:
     The First Day: we prepare an environment to work and create our special repository on Github.
     The Second Day: we review data and visualize it.
     The Third Day: we build a basic Machine Learning model.
-    The Fourth Day:
-    The Fifth Day: 
+    The Fourth Day: we optimize our model (data augmentation).
+    The Fifth Day: we perform tuning of hyperparameters.
